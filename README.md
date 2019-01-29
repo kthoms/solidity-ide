@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Yakindu/solidity-ide.svg?branch=master)](https://travis-ci.org/Yakindu/solidity-ide)
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://github.com/kthoms/solidity-ide/fosdem)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/kthoms/solidity-ide/fosdem)
 
 # YAKINDU Solidity Tools
 

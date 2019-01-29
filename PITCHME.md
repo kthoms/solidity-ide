@@ -9,11 +9,11 @@ Step 3. Copy slide markdown snippets from template/md diretory as needed.
 -->
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+YAKINDU<br>*Solidity Tools*
 @snapend
 
 @snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+Solution for Ethereum Devlepment.
 @snapend
 
 ---
